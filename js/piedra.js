@@ -6,6 +6,7 @@
 	var lagarto = 3;
 	var spock = 4;
 	var opcionUsuario = piedra;
+	var opciones = [Piedra, Papel, Tijera, Lagarto, Spock];
 	
 //variables del estado del jugador
 
